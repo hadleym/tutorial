@@ -1,0 +1,4 @@
+< en_US.lang - English localization file for the mod Tutorial >
+item.coyoteetutorial:widget.name=Widget
+item.coyoteetutorial:magicwand.name=Magic Wand
+tile.tutorial_block.name=Tutorial Block

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "coyoteetutorial:block/datablock",
+    "down": "coyoteetutorial:block/datablock",
+    "up": "coyoteetutorial:block/datablock",
+    "east": "coyoteetutorial:block/datablock",
+    "west": "coyoteetutorial:block/datablock",
+    "north": "coyoteetutorial:block/datablock",
+    "south": "coyoteetutorial:block/datablock"
+  }
+}
